@@ -1,0 +1,4 @@
+- Gambler Ruined problem
+- 1D Random Walk
+- Google Page Rank algorithm small example
+- Text simulation through Markov chain
